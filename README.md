@@ -94,7 +94,14 @@ r2 value:
 data prediction:
 
 ![image](https://github.com/Naveensrinivasan07/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475891/d3612ae9-97a2-4ba9-9708-97aa30ce02c4)
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
 
