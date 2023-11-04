@@ -61,7 +61,16 @@ dt.predict([[5,6]])
 data.head():
 
 ![image](https://github.com/Naveensrinivasan07/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475891/bf268109-2c11-4344-bd04-34dbc04ae63a)
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 data.info():
 
 ![image](https://github.com/Naveensrinivasan07/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119475891/aec7ab1b-a460-48d0-817d-79b8aecaf5f2)
